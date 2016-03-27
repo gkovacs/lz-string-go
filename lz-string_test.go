@@ -1,4 +1,4 @@
-package encoding
+package lzstringgo
 
 import (
 	"testing"
